@@ -23,22 +23,22 @@ This is combination of three applications <br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel14.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel15.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel16.PNG" width="210" height="400"></a><br/>
-## 1: Admin App (Android App)<br/>
+## 1: Waiter App (Android App)<br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App01.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App02.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App03.PNG" width="210" height="400"></a><br/>
-## 1: Admin App (Android App)<br/>
+## 1: Manager App (Netbeans App)<br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App01.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App02.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App03.PNG" width="210" height="400"></a><br/>
 
 
 ## Languages and Tools Used
-JAVA and Sqlite<br/>
-Local and Firebase Database <br/>
-Firebase Authentication <br/>
-Android Studio IDE <br/>
-Netbeans <br/>
+1: JAVA and Sqlite<br/>
+2: Local and Firebase Database <br/>
+3: Firebase Authentication <br/>
+4: Android Studio IDE <br/>
+5: Netbeans <br/>
 
 Thanks
 ## All Copyrights are reserved by the owner.
