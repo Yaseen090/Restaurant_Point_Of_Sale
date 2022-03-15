@@ -28,9 +28,9 @@ This is combination of three applications <br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App02.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App03.PNG" width="210" height="400"></a><br/>
 ## 1: Manager App (Netbeans App)<br/>
-<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App01.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App02.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App03.PNG" width="210" height="400"></a><br/>
+<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App01.PNG" width="600" height="300"></a>
+<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App02.PNG" width="600" height="300"></a>
+<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App03.PNG" width="600" height="300"></a><br/>
 
 
 ## Languages and Tools Used
