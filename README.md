@@ -22,15 +22,15 @@ This is combination of three applications <br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel13.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel14.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel15.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel16.PNG" width="210" height="400"></a>
-### 2: Waiter App (Android App)
+<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel16.PNG" width="210" height="400"></a><br/>
+## 1: Admin App (Android App)<br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App01.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App02.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App03.PNG" width="210" height="400"></a>
-### 3: Manager App (Desktop App)
+<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App03.PNG" width="210" height="400"></a><br/>
+## 1: Admin App (Android App)<br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App01.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App02.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App03.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App03.PNG" width="210" height="400"></a><br/>
 
 
 ## Languages and Tools Used
