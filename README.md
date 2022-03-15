@@ -2,7 +2,7 @@
 ## Show of Skill
 ## Description
 This is combination of three applications <br/>
-1: Admin App (Android App)<br/>
+## 1: Admin App (Android App)<br/>
 ## Functionality
 ## Login Pages
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel01.PNG" width="210" height="400"></a>
@@ -24,13 +24,12 @@ This is combination of three applications <br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel14.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel15.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel16.PNG" width="210" height="400"></a>
-1: Waiter App (Android App)<br/>
+<br/>
+## 2: Waiter App (Android App)<br/>
+
 1: Manager App (Desktop App)
 ## Functionality
-User Login<br/>
-Seller and Buyer <br/>
-Home Page for viewing list of all three types of product(Mobile, Bikes, Cars)<br/>
-Post Options for Car, Bikes and Cars<br/>
+
 
 ## Languages and Tools Used
 JAVA and Sqlite<br/>
