@@ -23,11 +23,11 @@ This is combination of three applications <br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel14.PNG" width="210" height="380"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel15.PNG" width="210" height="380"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Admin_Panel16.PNG" width="210" height="380"></a><br/>
-## 1: Waiter App (Android App)<br/>
+## 2: Waiter App (Android App)<br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App01.PNG" width="210" height="380"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App02.PNG" width="210" height="380"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Waiter_App03.PNG" width="210" height="380"></a><br/>
-## 1: Manager App (Netbeans App)<br/>
+## 3: Manager App (Netbeans App)<br/>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App01.PNG" width="600" height="330"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App02.PNG" width="600" height="330"></a>
 <a><img src="https://github.com/Yaseen090/Restaurant_Point_Of_Sale/blob/main/Manager_App03.PNG" width="600" height="330"></a><br/>
